@@ -1,3 +1,3 @@
 # RUN3D2
  
-A side-project I made. (Not my best work)
+A very low effort game for playing around in unity.
